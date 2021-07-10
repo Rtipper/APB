@@ -106,13 +106,9 @@ const styles = StyleSheet.create({
     flex: 1
   },
   scrollArea: {
-    width: 414,
-    height: 1549,
     backgroundColor: "rgba(35,35,35,1)"
   },
   scrollArea_contentContainerStyle: {
-    height: 1549,
-    width: 414,
     overflow: "scroll"
   },
   rect2: {

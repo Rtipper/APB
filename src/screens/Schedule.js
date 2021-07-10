@@ -141,17 +141,12 @@ function Schedule(props) {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
     backgroundColor: "rgba(15,15, 15,1)"
   },
   scrollArea: {
-    width: 414,
-    height: 8850,
     backgroundColor: "rgba(35,35,35,1)"
   },
   scrollArea_contentContainerStyle: {
-    height: 8850,
-    width: 414,
     overflow: "visible"
   },
   rect1: {

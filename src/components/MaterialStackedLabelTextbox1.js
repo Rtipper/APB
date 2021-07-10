@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
     paddingTop: 16
   },
   inputStyle: {
-    color: "#000",
+    color: "white",
     fontSize: 16,
     alignSelf: "stretch",
     flex: 1,

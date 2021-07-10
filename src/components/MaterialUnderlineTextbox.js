@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
     alignItems: "center"
   },
   inputStyle: {
-    color: "#000",
+    color: "white",
     paddingRight: 5,
     fontSize: 16,
     alignSelf: "stretch",
