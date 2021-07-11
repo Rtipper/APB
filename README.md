@@ -3,14 +3,8 @@
 **Author**: Ryan Tipper
 **Version**: 1.0.0
 
-# Most Recent Pull Request
-- https://github.com/Rtipper/api-server/pull/5
-
-# Heroku Deployment
-- https://rtipper-api-server.herokuapp.com/
-
 ## Overview
-Dynamic API Phase 3: Add Persistence (Database) to your API
+Reacte Native phone application Adams Pirates Baseball (APB) designed as a one-stop-shop app for all information relating to the mens baseball team - stats, roster, schedule and more.
 
 ## Process
 Setup repo
